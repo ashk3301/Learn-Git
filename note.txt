@@ -1,0 +1,7 @@
+Cmd commands to create an empty text file
+type nul >filename.txt(creates an empty file straightaway)
+copy con filename.txt(will give a prompt to enter text too when creating)
+To list folders and files like a graphical tree directory use tree command- tree /f.
+dir/a displays all files including hidden files and folders in the current directory
+"type filename.txt" diplays content of file
+"echo (text here) >> filename.txt" adds text to the file at the end.
