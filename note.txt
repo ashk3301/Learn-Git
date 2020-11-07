@@ -5,3 +5,6 @@ To list folders and files like a graphical tree directory use tree command- tree
 dir/a displays all files including hidden files and folders in the current directory
 "type filename.txt" diplays content of file
 "echo (text here) >> filename.txt" adds text to the file at the end.
+
+GIT REVERT- (tested, everything written in answer is true)
+https://superuser.com/questions/523963/how-can-i-revert-back-to-a-git-commit
